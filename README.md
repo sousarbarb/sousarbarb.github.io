@@ -1,6 +1,6 @@
 # sousarbarb.github.io
 
-Personal website
+Personal website.
 
 ## Installation
 
@@ -19,18 +19,12 @@ in the Jekyll documentation.
 
 ### GitHub Pages
 
-1. Create a branch as a publishing source (`git checkout -b gh-pages`)
-   or use one already existing in the repository
+1. Create a branch as a publishing source or use one already existing in the
+   repository
 2. Configure a publishing source:
    1. Go to Github Pages (GitHub Repository > Settings > Pages)
    2. Source: Select `Deploy from a branch`
-   3. Branch: Select `gh-pages` and `/docs` and click `Save`
-3. Create a `/docs` directory
-   ```sh
-   cd <REPOSITORY>
-   mkdir docs
-   cd docs
-   ```
+   3. Branch: Select `main` and `/root` and click `Save`
 
 ## Usage
 
@@ -49,3 +43,4 @@ in the Jekyll documentation.
    [Dependency versions](https://pages.github.com/versions/)
 4. From the command line, run `bundle install`
 5. Make the necessary edits to the `_config.yaml` file
+6. Test the website locally (New Terminal: run `bundle exec jekyll serve`)
