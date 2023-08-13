@@ -1,46 +1,78 @@
 # sousarbarb.github.io
 
-Personal website.
+Personal webpage of Ricardo B. Sousa.
 
-## Installation
+## Setup
 
-### Jekyll
+### GitHub Repository
 
-See [Installation](https://jekyllrb.com/docs/installation/windows/) instructions
-in the Jekyll documentation.
-
-1. Download and install the Ruby dev kit
-2. Run `ridk install` step on the last stage of the installation wizard (select
-   `Finish` and put option `3` in the terminal that opened automatically for
-   installing `MSYS2 and MINGW development tool chain`)
-3. Open `New Terminal` and install Jekyll and Bundler using
-   `gem install jekyll bundler`
-4. Check if Jekyll was installed correctly using `jekyll -v`
-
-### GitHub Pages
-
-1. Create a branch as a publishing source or use one already existing in the
-   repository
-2. Configure a publishing source:
-   1. Go to Github Pages (GitHub Repository > Settings > Pages)
-   2. Source: Select `Deploy from a branch`
-   3. Branch: Select `main` and `/root` and click `Save`
-
-## Usage
+```sh
+mkdir ~/sousarbarb_ws/src -p
+cd ~/sousarbarb_ws/src
+git clone git@github.com:sousarbarb/sousarbarb.github.io.git
+```
 
 ### Jekyll
 
-1. Create new Jekyll site using `jekyll new` and open the GemFile
+1. Install all prerequisites (see https://jekyllrb.com/docs/installation/)
    ```sh
-   cd <REPOSITORY>/docs
-   jekyll new --skip-bundle .
-   code GemFile
+   # Check if requirements are installed
+   ruby -v
+   gem -v
+   gcc -v
+
+   # Install Ruby and other prerequisites
+   sudo apt install ruby-full build-essential zlib1g-dev -y
+
+   # RubyGems environment
+   echo '## RUBY + JEKYLL' >> ~/.bashrc
+   echo 'export GEM_HOME="$HOME/gems"' >> ~/.bashrc
+   echo 'export PATH="$HOME/gems/bin:$PATH"' >> ~/.bashrc
+   source ~/.bashrc
    ```
-2. Add `#` to the beginning of the line starting with `gem "jekyll"`
-3. Uncomment the line starting with `gem "github-pages"` and replace it with
-   `gem "github-pages", "~> GITHUB-PAGES-VERSION", group: :jekyll_plugins`,
-   where `GITHUB-PAGES-VERSION` can be found in
-   [Dependency versions](https://pages.github.com/versions/)
-4. From the command line, run `bundle install`
-5. Make the necessary edits to the `_config.yaml` file
-6. Test the website locally (New Terminal: run `bundle exec jekyll serve`)
+2. Install the jekyll and bundler gems
+   ```sh
+   sudo gem install jekyll bundler
+   ```
+   - Jekyll may have problems installing it in Ubuntu 20 LTS with Ruby 2.7
+     (https://stackoverflow.com/questions/75452016/)
+   - Set up the Ruby Version Manager (RVM) (https://rvm.io/rvm/install,
+     https://github.com/rvm/ubuntu_rvm):
+     ```sh
+     sudo apt install software-properties-common -y
+
+     sudo apt-add-repository -y ppa:rael-gc/rvm
+     sudo apt update
+     sudo apt install rvm -y
+
+     sudo usermod -a -G rvm $USER
+
+     echo 'source "/etc/profile.d/rvm.sh"' >> ~/.bashrc
+     source ~/.bashrc
+     ```
+   - Use RVM to update your Ruby version:
+     ```sh
+     sudo su
+     source /etc/profile.d/rvm.sh
+
+     rvm install 3.0
+     rvm docs generate-ri
+     rvm use 3.0.0 --default
+     rvm -v
+     rvm gemset update
+
+     gem install jekyll
+     jekyll -v
+     ```
+
+Source: https://jekyllrb.com/docs/
+
+## Build & Run
+
+```sh
+cd ~/sousarbarb_ws/src/sousarbarb.github.io/
+gem install bundle
+gem update --system
+bundle install
+bundle exec jekyll serve
+```
