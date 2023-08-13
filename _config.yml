@@ -19,7 +19,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: "Ricardo B. Sousa: Personal Webpage"
+title: "Ricardo B. Sousa"
 description: >-                 # this means to ignore newlines until "<item>:"
   "Personal Webpage of Ricardo Barbosa Sousa"
 

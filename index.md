@@ -10,12 +10,12 @@ permalink: /
 
 ## Identifiers
 
-- **CiênciaVITAE:** [D11E-2C67-1CCE](https://www.cienciavitae.pt/D11E-2C67-1CCE)
-- **ORCiD:** [0000-0003-4537-5095](https://orcid.org/0000-0003-4537-5095)
-- **AuthenticusID:** [R-00J-JZZ](https://www.authenticus.pt/R-00J-JZZ)
-- **Google Scholar:** [Bz2FMqYAAAAJ](https://scholar.google.com/citations?user=Bz2FMqYAAAAJ)
-- **Researcher ID:** [AAG-9201-2021](https://www.webofscience.com/wos/author/record/AAG-9201-2021)
-- **Scopus Author ID:** [57217044620](https://www.scopus.com/authid/detail.uri?authorId=57217044620)
+- CiênciaVITAE: [D11E-2C67-1CCE](https://www.cienciavitae.pt/D11E-2C67-1CCE)
+- ORCiD: [0000-0003-4537-5095](https://orcid.org/0000-0003-4537-5095)
+- AuthenticusID: [R-00J-JZZ](https://www.authenticus.pt/R-00J-JZZ)
+- Google Scholar: [Bz2FMqYAAAAJ](https://scholar.google.com/citations?user=Bz2FMqYAAAAJ)
+- Researcher ID: [AAG-9201-2021](https://www.webofscience.com/wos/author/record/AAG-9201-2021)
+- Scopus Author ID: [57217044620](https://www.scopus.com/authid/detail.uri?authorId=57217044620)
 
 ## Links
 
