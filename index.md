@@ -20,7 +20,10 @@ permalink: /
 ## Links
 
 - [@sousarbarb](https://github.com/sousarbarb) _(GitHub)_
-- [@ricardo.b.sousa](https://gitlab.inesctec.pt/ricardo.b.sousa) _(GitLab INESC TEC)_
+- [@sousarbarb](https://gitlab.com/sousarbarb) _(GitLab)_
+- [@ricardo.b.sousa](https://gitlab.inesctec.pt/ricardo.b.sousa)
+  _(GitLab INESC TEC)_
+- [Instagram](https://www.instagram.com/sousarbarb97/)
 - [LinkedIn](https://www.linkedin.com/in/sousa-ricardob/)
 - [ResearchGate](https://www.researchgate.net/profile/Ricardo-Sousa-19)
 - [Reddit](https://www.reddit.com/user/sousarbarb97)
@@ -28,25 +31,21 @@ permalink: /
 
 ## Contacts
 
-Ricardo B. Sousa
+**Ricardo Barbosa Sousa**
 
-Researcher at
-CRIIS - Centre for Robotics in Industry and Intelligent Systems from INESC TEC -
-Institute for Systems and Computer Engineering, Technology and Science,
+Robotics Researcher at
+[CRIIS - Centre for Robotics in Industry and Intelligent Systems](https://www.inesctec.pt/en/centres/criis/) from
+[INESC TEC - Institute for Systems and Computer Engineering, Technology and Science](https://www.inesctec.pt/en/),
 4200-465 Porto, Portugal
 
 - Mail: [ricardo.b.sousa@inesctec.pt](mailto:ricardo.b.sousa@inesctec.pt)
 - Tel.: [+351 220 413 317](tel:0351220413317)
 
-PhD Candidate at the
-Faculty of Engineering, University of Porto (FEUP),
+PhD Candidate in Electrical and Computers Engineering (ECE) at the
+[Faculty of Engineering, University of Porto (FEUP)](https://sigarra.up.pt/feup/en/),
 4200-465 Porto, Portugal
+
+Researcher at the
+[5dpo Robotics Team](https://5dpo.github.io/), 4200-465 Porto, Portugal
 
 - Mail: [up201503004@edu.fe.up.pt](mailto:up201503004@edu.fe.up.pt)
-
-Invited Assistant at the
-Electrical and Computers Engineering Department from the Faculty of Engineering,
-University of Porto (FEUP),
-4200-465 Porto, Portugal
-
-- Mail: [rbs@fe.up.pt](mailto:rbs@fe.up.pt)
