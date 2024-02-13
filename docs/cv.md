@@ -7,46 +7,17 @@ permalink: /cv
 
 # Curriculum Vitae
 
-## Education
-
-- PhD Candidate in ECE @
-  [Faculty of Engineering, University of Porto (FEUP)](https://sigarra.up.pt/feup/en/)
-  (Porto, Portugal)
-  - February 2021 - Present
-  - GPA: 18.40/20 (curricular part)
-  - PhD Thesis in Long-Term Localisation and Mapping with Mobile Robots
-  - Supervisors:
-    - Prof. Dr. António Paulo Moreira
-      ([amoreira@fe.up.pt](mailto:amoreira@fe.up.pt))
-    - Héber Miguel Sobreira, PhD
-      ([heber.m.sobreira@inesctec.pt](mailto:heber.m.sobreira@inesctec.pt))
-- MSc in ECE @
-  [Faculty of Engineering, University of Porto (FEUP)](https://sigarra.up.pt/feup/en/)
-  (Porto, Portugal)
-  - September 2015 - July 2020
-  - GPA: 18.20/20
-  - MSc Thesis in Odometry and Extrinsic Sensor Calibration on Mobile Robots
-    (DOI: [10.13140/RG.2.2.27052.28802](http://dx.doi.org/10.13140/RG.2.2.27052.28802))
-  - Supervisors:
-    - Prof. Dr. António Paulo Moreira
-      ([amoreira@fe.up.pt](mailto:amoreira@fe.up.pt))
-    - Marcelo R. Petry, PhD
-      ([marcelo.petry@inesctec.pt](mailto:marcelo.petry@inesctec.pt))
-- Scientific-Technological Cource in Industrial Electronics and Automation @
-  [Colégio de Gaia](https://www.colgaia.pt/)
-  (Vila Nova de Gaia, Porto, Portugal)
-  - September 2012 - July 2015
-  - GPA: 19.1/20.0
-  - Technological Final Project on an Automated Hydroponic in a
-    Controlled-Environment Room
-- Secondary Music Course in Clarinet @
-  [Fundação Conservatório Regional de Gaia](https://conservatoriodegaia.org/)
-  (Vila Nova de Gaia, Porto, Portugal)
-  - September 2007 - July 2015
-  - GPA: 16/20
-
 ## Experience
 
+- Visiting Researcher @ [Sapienza Università di Roma](https://www.uniroma1.it/en/)
+  - February 2024 - Present
+  - Research Topics:
+    - Simultaneous Localisation and Mapping (SLAM)
+  - Skills:
+    - C/C++
+    - Robot Operating System (ROS)
+    - Simultaneous Localization and Mapping (SLAM)
+  - Supervisor: Prof. Dr. Giorgio Grisetti ([grisetti@diag.uniroma1.it](mailto:grisetti@diag.uniroma1.it))
 - [INESC TEC - Institute for Systems and Computer Engineering, Technology and Science](https://www.inesctec.pt/en/) (Porto, Portugal)
   - Researcher (April 2023 - Present)
   - Graduate Research Scholarship (September 2020 - March 2023)
@@ -99,6 +70,44 @@ permalink: /cv
   - September 2019 - November 2019
   - Course: Project FEUP (BSc in ECE)
 
+## Education
+
+- PhD Candidate in ECE @
+  [Faculty of Engineering, University of Porto (FEUP)](https://sigarra.up.pt/feup/en/)
+  (Porto, Portugal)
+  - February 2021 - Present
+  - GPA: 18.40/20 (curricular part)
+  - PhD Thesis in Long-Term Localisation and Mapping with Mobile Robots
+  - Supervisors:
+    - Prof. Dr. António Paulo Moreira
+      ([amoreira@fe.up.pt](mailto:amoreira@fe.up.pt))
+    - Héber Miguel Sobreira, PhD
+      ([heber.m.sobreira@inesctec.pt](mailto:heber.m.sobreira@inesctec.pt))
+- MSc in ECE @
+  [Faculty of Engineering, University of Porto (FEUP)](https://sigarra.up.pt/feup/en/)
+  (Porto, Portugal)
+  - September 2015 - July 2020
+  - GPA: 18.20/20
+  - MSc Thesis in Odometry and Extrinsic Sensor Calibration on Mobile Robots
+    (DOI: [10.13140/RG.2.2.27052.28802](http://dx.doi.org/10.13140/RG.2.2.27052.28802))
+  - Supervisors:
+    - Prof. Dr. António Paulo Moreira
+      ([amoreira@fe.up.pt](mailto:amoreira@fe.up.pt))
+    - Marcelo R. Petry, PhD
+      ([marcelo.petry@inesctec.pt](mailto:marcelo.petry@inesctec.pt))
+- Scientific-Technological Cource in Industrial Electronics and Automation @
+  [Colégio de Gaia](https://www.colgaia.pt/)
+  (Vila Nova de Gaia, Porto, Portugal)
+  - September 2012 - July 2015
+  - GPA: 19.1/20.0
+  - Technological Final Project on an Automated Hydroponic in a
+    Controlled-Environment Room
+- Secondary Music Course in Clarinet @
+  [Fundação Conservatório Regional de Gaia](https://conservatoriodegaia.org/)
+  (Vila Nova de Gaia, Porto, Portugal)
+  - September 2007 - July 2015
+  - GPA: 16/20
+
 ## Projects
 
 - GreenAuto: Green innovation for the Automotive Industry
@@ -122,10 +131,6 @@ permalink: /cv
   - Research Topics:
     - Gerber File Parsers
     - 2D-3D Projection of Electronic Circuits and Decorations
-
-## Activities
-
-TBC
 
 ## Publications
 
