@@ -1,10 +1,3 @@
----
-layout: default
-title: Projects
-nav_order: 5
-permalink: /projects
----
-
 # Projects
 
 ## GreenAuto: Green innovation for the Automotive Industry
