@@ -1,6 +1,6 @@
 site_name: Ricardo B. Sousa Personal Webpage
-# site_url: https://sousarbarb.github.io/
-site_url: https://127.0.0.1:10000
+site_url: https://sousarbarb.github.io/
+# site_url: https://127.0.0.1:10000
 
 plugins:
   - search
