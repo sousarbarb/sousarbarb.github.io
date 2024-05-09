@@ -1,12 +1,4 @@
----
-layout: default
-title: Home
-nav_order: 1
-description: "Personal Webpage of Ricardo Barbosa Sousa"
-permalink: /
----
-
-# Ricardo B. Sousa
+# Ricardo B. Sousa Personal Webpage
 
 ## Identifiers
 

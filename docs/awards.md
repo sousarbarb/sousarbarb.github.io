@@ -1,10 +1,3 @@
----
-layout: default
-title: Awards
-nav_order: 8
-permalink: /awards
----
-
 # Awards
 
 1st and 2nd places at the

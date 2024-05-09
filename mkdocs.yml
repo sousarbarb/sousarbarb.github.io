@@ -1,0 +1,80 @@
+site_name: Ricardo B. Sousa Personal Webpage
+# site_url: https://sousarbarb.github.io/
+site_url: https://127.0.0.1:10000
+
+plugins:
+  - search
+
+theme:
+  name: material
+  features:
+    - navigation.instant
+    - navigation.instant.prefetch
+    - navigation.instant.progress
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.expand
+    - navigation.path
+    - navigation.prune
+    - navigation.indexes
+    - navigation.top
+    - toc.follow
+    - toc.integrate
+    - search.suggest
+    - search.highlight
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: blue grey
+      accent: blue grey
+      toggle:
+        icon: material/eye-outline
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: blue grey
+      accent: blue grey
+      toggle:
+        icon: material/eye
+        name: Switch to system preference
+
+extra:
+  # generator: false
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/sousarbarb/
+      name: GitHub @sousarbarb
+    - icon: fontawesome/brands/gitlab
+      link: https://gitlab.com/sousarbarb/
+      name: GitLab @sousarbarb
+    - icon: fontawesome/brands/gitlab
+      link: https://gitlab.inesctec.pt/ricardo.b.sousa/
+      name: GitLab INESC TEC @sousarbarb
+    - icon: fontawesome/brands/orcid
+      link: https://orcid.org/0000-0003-4537-5095/
+      name: ORCiD
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/sousa-ricardob/
+      name: LinkedIn
+    - icon: fontawesome/brands/instagram
+      link: https://www.instagram.com/sousarbarb97/
+      name: Instagram
+    - icon: fontawesome/brands/reddit
+      link: https://www.reddit.com/user/sousarbarb97/
+      name: Reddit
+    - icon: fontawesome/brands/youtube
+      link: https://www.youtube.com/channel/UCXTR8mMlG0VOC_06PKg5KBQ/
+      name: YouTube Channel @RicardoBSousa
+
+nav:
+  - Home: index.md
+  - About: about.md
+  - CV: cv.md
+  - Researching: researching.md
+  - Projects: projects.md
+  - Teaching: teaching.md
+  - Publications: publications.md
+  - Awards: awards.md
+  - Robotics: robotics.md
+  - Tools: tools.md

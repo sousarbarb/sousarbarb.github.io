@@ -1,10 +1,3 @@
----
-layout: default
-title: Teaching
-nav_order: 6
-permalink: /teaching
----
-
 # Teaching
 
 ## Industrial Informatics (MSc in ECE @ FEUP)

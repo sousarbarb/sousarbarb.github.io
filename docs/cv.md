@@ -1,10 +1,3 @@
----
-layout: default
-title: Curriculum Vitae
-nav_order: 3
-permalink: /cv
----
-
 # Curriculum Vitae
 
 ## Experience
@@ -156,7 +149,7 @@ In: 2021 IEEE International Conference on Autonomous Robot Systems and
 Competitions (ICARSC), pp. 91-96.
 DOI: [10.1109/ICARSC52212.2021.9429803](https://doi.org/10.1109/ICARSC52212.2021.9429803)
 
-See more in [Publications](/docs/publications.md).
+See more in [Publications](publications.md).
 
 ## Awards
 
@@ -172,4 +165,4 @@ ABB 2020 Award relative to the
 M.Sc. thesis with the best classification developed on one of the following
 themes: Renewable Energies, Industrial Automation, or Robotics.
 
-See more in [Awards](/docs/publications.md).
+See more in [Awards](awards.md).

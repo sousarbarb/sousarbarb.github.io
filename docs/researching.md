@@ -1,10 +1,3 @@
----
-layout: default
-title: Researching
-nav_order: 4
-permalink: /researching
----
-
 # Researching
 
 TBC
