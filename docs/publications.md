@@ -31,7 +31,14 @@ _A Robotic Framework for the Robot@Factory 4.0 Competition_.
 In: 2024 IEEE International Conference on Autonomous Robot Systems and
 Competitions (ICARSC), _in press_.
 DOI: [N/A](https://doi.org/).
-URL:[github.com/5dpo/5dpo_ratf_2023](https://github.com/5dpo/5dpo_ratf_2023) 
+URL: [github.com/5dpo/5dpo\_ratf\_2023](https://github.com/5dpo/5dpo_ratf_2023)
+
+Sousa, R.B., Sobreira, H.M., Silva, M.F., & Moreira, A.P. (2024).
+_Line Fitting-Based Corner-Like Detector for 2D Laser Scanners Data_.
+In: 11th International Conference on Automation, Robotics, and Applications
+(ICARA), _in press_.
+DOI: [N/A](https://doi.org/).
+URL: [gitlab.inesctec.pt/mrdt/open-source/inesctec\_mrdt\_line\_fit\_based\_corner\_detector\_2d\_laser.git](https://gitlab.inesctec.pt/mrdt/open-source/inesctec_mrdt_line_fit_based_corner_detector_2d_laser.git)
 
 Sousa, R.B., Costa, P.G., & Moreira, A.P. (2021).
 _A Pose Control Algorithm for Omnidirectional Robots_.

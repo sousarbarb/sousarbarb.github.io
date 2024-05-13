@@ -11,6 +11,16 @@ My participation in this project has mainly been in researching new techniques t
 
 Link: [https://transparencia.gov.pt/en/fundos-europeus/prr/beneficiarios-projetos/projeto/02/C05-i01.02/2022.PC644867037-00000013/](https://transparencia.gov.pt/en/fundos-europeus/prr/beneficiarios-projetos/projeto/02/C05-i01.02/2022.PC644867037-00000013/)
 
+## PRODUTECH R3: Row Production Technologies for Reindustrialization
+
+_(ongoing)_
+
+Development of new methodologies, strategies, tools and approaches that will converge in new products, services and innovative systems (production technologies), aligned with the challenges of the circular economy and based on ensuring sustainability, ensuring significant levels of impact, from the start, in this sector and in the most diverse industrial sectors. It incorporates a coherent set of interventions, aimed at the development of products-systems-services, ecosystems of tools and applications, methodologies and strategies, supported by new digitization paradigms, aiming at: Capacity building for the development of new sustainable products (production systems and components). Advanced integration and management of sustainable production systems, zero defects - zero impacts environmental Symbiotic management of production ecosystems and supply chains in a circular context And the implementation of circular and sustainable approaches in manufacturing industry. It results from the action program of the PRODUTECH cluster and from the clustering movement at FTP, comprising core developments of the strategic axis "Mobilization for frontier R&D+I".
+
+TBC
+
+Link: [https://transparencia.gov.pt/en/fundos-europeus/prr/beneficiarios-projetos/projeto/02/C05-i01.01/2022.PC645808870-00000067/](https://transparencia.gov.pt/en/fundos-europeus/prr/beneficiarios-projetos/projeto/02/C05-i01.01/2022.PC645808870-00000067/)
+
 ## VINCI 7D Functional Print
 
 INESC TEC participated in this project through a contract celebrated with the company [Rui Azevedo - Soluções de Acabamentos e Tampografia](https://www.ruiazevedo.pt/pt).

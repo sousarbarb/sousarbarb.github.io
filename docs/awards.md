@@ -2,9 +2,14 @@
 
 Best Paper Award
 _A Robotic Framework for the Robot@Factory 4.0 Competition_
-at the 24th IEEE International Conference on Autonomous Robot Systems and
+at the 2024 IEEE International Conference on Autonomous Robot Systems and
 Competitions (ICARSC),
 Paredes de Coura, Portugal, May 2024.
+
+Best Presenter Award for the paper
+_Line Fitting-Based Corner-Like Detector for 2D Laser Scanners Data_ at the
+11th International Conference on Automation, Robotics, and Applications
+(ICARA), Athens, Greece, February 2024.
 
 1st and 2nd places at the
 Robot@Factory 4.0 competition of the Portuguese Robotics Open (FNR) 2023,
