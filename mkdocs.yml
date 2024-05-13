@@ -69,9 +69,8 @@ extra:
 
 nav:
   - Home: index.md
-  - About: about.md
   - CV: cv.md
-  - Researching: researching.md
+  - Research: research.md
   - Projects: projects.md
   - Teaching: teaching.md
   - Publications: publications.md

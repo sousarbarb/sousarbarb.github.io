@@ -25,6 +25,14 @@ DOI: [10.3390/mti5080047](https://doi.org/10.3390/mti5080047)
 
 ## Conference papers
 
+Sousa, R.B., Rocha, C.D., Martins, J.G., Costa, J.P., Padrão, J.T.,
+Sarmento, J.M., Carvalho, J.P., Lopes, M.S., Costa, P.G., & Moreira, A.P. (2024).
+_A Robotic Framework for the Robot@Factory 4.0 Competition_.
+In: 2024 IEEE International Conference on Autonomous Robot Systems and
+Competitions (ICARSC), _in press_.
+DOI: [N/A](https://doi.org/).
+URL:[github.com/5dpo/5dpo_ratf_2023](https://github.com/5dpo/5dpo_ratf_2023) 
+
 Sousa, R.B., Costa, P.G., & Moreira, A.P. (2021).
 _A Pose Control Algorithm for Omnidirectional Robots_.
 In: 2021 IEEE International Conference on Autonomous Robot Systems and
