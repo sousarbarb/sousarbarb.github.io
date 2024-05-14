@@ -84,3 +84,8 @@ nav:
   - Awards: awards.md
   - Robotics: robotics.md
   - Tools: tools.md
+
+markdown_extensions:
+  - def_list
+  - pymdownx.tasklist:
+      custom_checkbox: true
