@@ -8,11 +8,11 @@
 
 - February 2024 - Present
 - Research Topics:
-  - Simultaneous Localisation and Mapping (SLAM)
+    - Simultaneous Localisation and Mapping (SLAM)
 - Skills:
-  - C/C++
-  - Robot Operating System (ROS)
-  - Simultaneous Localisation and Mapping (SLAM)
+    - C/C++
+    - Robot Operating System (ROS)
+    - Simultaneous Localisation and Mapping (SLAM)
 - Supervisor: Prof. Dr. Giorgio Grisetti
   ([grisetti@diag.uniroma1.it](mailto:grisetti@diag.uniroma1.it))
 
@@ -22,24 +22,24 @@
 - Researcher (April 2023 - Present)
 - Graduate Research Scholarship (September 2020 - March 2023)
 - Research Topics:
-  - Control Systems (wheel speed controllers, robot positioning control)
-  - Robot Calibration (wheeled odometry, extrinsic sensor parameters)
-  - Sensor Fusion (filtering)
-  - Simultaneous Localisation and Mapping (SLAM)
+    - Control Systems (wheel speed controllers, robot positioning control)
+    - Robot Calibration (wheeled odometry, extrinsic sensor parameters)
+    - Sensor Fusion (filtering)
+    - Simultaneous Localisation and Mapping (SLAM)
 - Skills:
-  - C/C++ (implementation and online execution)
-  - LaTeX (writing)
-  - Python, MATLAB, Octave (data processing and analysis, prototyping)
-  - Robot Operating System (ROS)
-  - Simultaneous Localisation and Mapping (SLAM)
-  - Team Management
-  - Team Work
+    - C/C++ (implementation and online execution)
+    - LaTeX (writing)
+    - Python, MATLAB, Octave (data processing and analysis, prototyping)
+    - Robot Operating System (ROS)
+    - Simultaneous Localisation and Mapping (SLAM)
+    - Team Management
+    - Team Work
 - Supervisors:
-  - Prof. Dr. António Paulo Moreira
-    ([amoreira@fe.up.pt](mailto:amoreira@fe.up.pt))
-  - Héber Miguel Sobreira, PhD
-    ([heber.m.sobreira@inesctec.pt](mailto:heber.m.sobreira@inesctec.pt))
-  - Prof. Dr. Manuel F. Silva ([mss@isep.ipp.pt](mailto:mss@isep.ipp.pt))
+    - Prof. Dr. António Paulo Moreira
+      ([amoreira@fe.up.pt](mailto:amoreira@fe.up.pt))
+    - Héber Miguel Sobreira, PhD
+      ([heber.m.sobreira@inesctec.pt](mailto:heber.m.sobreira@inesctec.pt))
+    - Prof. Dr. Manuel F. Silva ([mss@isep.ipp.pt](mailto:mss@isep.ipp.pt))
 
 **Invited Assistant @**
 **[Faculty of Engineering, University of Porto (FEUP)](https://sigarra.up.pt/feup/en/)**
@@ -47,12 +47,12 @@
 
 - September 2021 - August 2023
 - Courses (all from the MSc program in ECE):
-  - Software Design (2021/22 1ºS, 2022/23 1ºS)
-  - Industrial Informatics (2021/22 2ºS, 2022/23 2ºS)
+    - Software Design (2021/22 1ºS, 2022/23 1ºS)
+    - Industrial Informatics (2021/22 2ºS, 2022/23 2ºS)
 - Supervisors:
-  - Prof. Dr. Armando Jorge Sousa ([asousa@fe.up.pt](mailto:asousa@fe.up.pt))
-  - Prof. Dr. Mário Jorge Sousa ([msousa@fe.up.pt](mailto:msousa@fe.up.pt))
-  - Prof. Dr. Nuno Flores ([nflores@fe.up.pt](mailto:nflores@fe.up.pt))
+    - Prof. Dr. Armando Jorge Sousa ([asousa@fe.up.pt](mailto:asousa@fe.up.pt))
+    - Prof. Dr. Mário Jorge Sousa ([msousa@fe.up.pt](mailto:msousa@fe.up.pt))
+    - Prof. Dr. Nuno Flores ([nflores@fe.up.pt](mailto:nflores@fe.up.pt))
 
 **Clarinet Teacher @**
 **[Escola de Música da Sociedade Filarmónica de Crestuma](https://www.facebook.com/escolademusica.sfc/)**
@@ -90,10 +90,10 @@
 - GPA: 18.40/20 (curricular part)
 - PhD Thesis in Long-Term Localisation and Mapping with Mobile Robots
 - Supervisors:
-  - Prof. Dr. António Paulo Moreira
-    ([amoreira@fe.up.pt](mailto:amoreira@fe.up.pt))
-  - Héber Miguel Sobreira, PhD
-    ([heber.m.sobreira@inesctec.pt](mailto:heber.m.sobreira@inesctec.pt))
+    - Prof. Dr. António Paulo Moreira
+      ([amoreira@fe.up.pt](mailto:amoreira@fe.up.pt))
+    - Héber Miguel Sobreira, PhD
+      ([heber.m.sobreira@inesctec.pt](mailto:heber.m.sobreira@inesctec.pt))
 
 **MSc in ECE @**
 **[Faculty of Engineering, University of Porto (FEUP)](https://sigarra.up.pt/feup/en/)**
@@ -104,10 +104,10 @@
 - MSc Thesis in Odometry and Extrinsic Sensor Calibration on Mobile Robots
   (DOI: [10.13140/RG.2.2.27052.28802](http://dx.doi.org/10.13140/RG.2.2.27052.28802))
 - Supervisors:
-  - Prof. Dr. António Paulo Moreira
-    ([amoreira@fe.up.pt](mailto:amoreira@fe.up.pt))
-  - Marcelo R. Petry, PhD
-    ([marcelo.petry@inesctec.pt](mailto:marcelo.petry@inesctec.pt))
+    - Prof. Dr. António Paulo Moreira
+      ([amoreira@fe.up.pt](mailto:amoreira@fe.up.pt))
+    - Marcelo R. Petry, PhD
+      ([marcelo.petry@inesctec.pt](mailto:marcelo.petry@inesctec.pt))
 
 **Scientific-Technological Cource in Industrial Electronics and Automation @**
 **[Colégio de Gaia](https://www.colgaia.pt/)**
@@ -129,26 +129,26 @@
 
 - GreenAuto: Green innovation for the Automotive Industry
   (April 2023 - Present)
-  - ID:
-    [02/C05-i01.02/2022.PC644867037-00000013](https://preprod.transparencia.gov.pt/pt/fundos-europeus/prr/beneficiarios-projetos/projeto/02/C05-i01.02/2022.PC644867037-00000013/)
-  - Research Topics:
-    Automatic Pallet Detection,
-    Long-Term Localisation and Mapping with Mobile Robots,
-    Multi-Robot Coordination
+    - ID:
+      [02/C05-i01.02/2022.PC644867037-00000013](https://preprod.transparencia.gov.pt/pt/fundos-europeus/prr/beneficiarios-projetos/projeto/02/C05-i01.02/2022.PC644867037-00000013/)
+    - Research Topics:
+      Automatic Pallet Detection,
+      Long-Term Localisation and Mapping with Mobile Robots,
+      Multi-Robot Coordination
 - PRODUTECH R3: Row Production Technologies for Reindustrialization
   (April 2023 - Present)
-  - ID:
-    [02/C05-i01.01/2022.PC645808870-00000067](https://transparencia.gov.pt/pt/fundos-europeus/prr/beneficiarios-projetos/projeto/02/C05-i01.01/2022.PC645808870-00000067/)
-  - Research Topics:
-    Automatic Pallet Detection,
-    Remote Control of Autonomous Forklift Robots
+    - ID:
+      [02/C05-i01.01/2022.PC645808870-00000067](https://transparencia.gov.pt/pt/fundos-europeus/prr/beneficiarios-projetos/projeto/02/C05-i01.01/2022.PC645808870-00000067/)
+    - Research Topics:
+      Automatic Pallet Detection,
+      Remote Control of Autonomous Forklift Robots
 - VINCI 7D Functional Print
   (September 2020 - August 2021)
-  - ID:
-    [POCI-01-0247-FEDER-045102](https://www.inesctec.pt/en/projects/vinci7d)
-  - Research Topics:
-    Gerber File Parsers,
-    2D-3D Projection of Electronic Circuits and Decorations
+    - ID:
+      [POCI-01-0247-FEDER-045102](https://www.inesctec.pt/en/projects/vinci7d)
+    - Research Topics:
+      Gerber File Parsers,
+      2D-3D Projection of Electronic Circuits and Decorations
 
 ## Publications
 
