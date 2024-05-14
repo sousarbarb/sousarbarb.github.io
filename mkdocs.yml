@@ -24,19 +24,25 @@ theme:
     - search.suggest
     - search.highlight
   palette:
+    - media: "(prefers-color-scheme)"
+      primary: light blue
+      accent: light blue
+      toggle:
+        icon: material/brightness-auto
+        name: Switch to light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: blue grey
-      accent: blue grey
+      primary: light blue
+      accent: light blue
       toggle:
-        icon: material/eye-outline
+        icon: material/brightness-7
         name: Switch to dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
       primary: blue grey
       accent: blue grey
       toggle:
-        icon: material/eye
+        icon: material/brightness-4
         name: Switch to system preference
 
 extra:
@@ -74,6 +80,7 @@ nav:
   - Projects: projects.md
   - Teaching: teaching.md
   - Publications: publications.md
+  - Open-Source: open-source.md
   - Awards: awards.md
   - Robotics: robotics.md
   - Tools: tools.md
