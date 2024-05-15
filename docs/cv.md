@@ -140,7 +140,7 @@
 - GreenAuto: Green innovation for the Automotive Industry
   (April 2023 - Present)
     - _ID:_
-      [02/C05-i01.02/2022.PC644867037-00000013](https://preprod.transparencia.gov.pt/pt/fundos-europeus/prr/beneficiarios-projetos/projeto/02/C05-i01.02/2022.PC644867037-00000013/)
+      [02/C05-i01.02/2022.PC644867037-00000013](https://transparencia.gov.pt/en/fundos-europeus/prr/beneficiarios-projetos/projeto/02/C05-i01.02/2022.PC644867037-00000013/)
     - _Research Topics:_
       Automatic Pallet Detection,
       Long-Term Localisation and Mapping with Mobile Robots,
@@ -149,7 +149,7 @@
   Technologies Cluster Mobilising Agenda for Reindustrialisation
   (April 2023 - Present)
     - _ID:_
-      [02/C05-i01.01/2022.PC645808870-00000067](https://transparencia.gov.pt/pt/fundos-europeus/prr/beneficiarios-projetos/projeto/02/C05-i01.01/2022.PC645808870-00000067/)
+      [02/C05-i01.01/2022.PC645808870-00000067](https://transparencia.gov.pt/en/fundos-europeus/prr/beneficiarios-projetos/projeto/02/C05-i01.01/2022.PC645808870-00000067/)
     - _Research Topics:_
       Automatic Pallet Detection,
       Remote Control of Autonomous Forklift Robots
