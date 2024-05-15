@@ -7,26 +7,26 @@
 (Rome, Italy)
 
 - February 2024 - Present
-- Research Topics:
+- _Research Topics:_
     - Simultaneous Localisation and Mapping (SLAM)
-- Skills:
+- _Skills:_
     - C/C++
     - Robot Operating System (ROS)
     - Simultaneous Localisation and Mapping (SLAM)
-- Supervisor: Prof. Dr. Giorgio Grisetti
+- _Supervisor:_ Prof. Dr. Giorgio Grisetti
   ([grisetti@diag.uniroma1.it](mailto:grisetti@diag.uniroma1.it))
 
 **[INESC TEC - Institute for Systems and Computer Engineering, Technology and Science](https://www.inesctec.pt/en/)**
 (Porto, Portugal)
 
-- Researcher (April 2023 - Present)
-- Graduate Research Scholarship (September 2020 - March 2023)
-- Research Topics:
+- **Researcher** (April 2023 - Present)
+- **Graduate Research Scholarship** (September 2020 - March 2023)
+- _Research Topics:_
     - Control Systems (wheel speed controllers, robot positioning control)
     - Robot Calibration (wheeled odometry, extrinsic sensor parameters)
     - Sensor Fusion (filtering)
     - Simultaneous Localisation and Mapping (SLAM)
-- Skills:
+- _Skills:_
     - C/C++ (implementation and online execution)
     - LaTeX (writing)
     - Python, MATLAB, Octave (data processing and analysis, prototyping)
@@ -34,7 +34,7 @@
     - Simultaneous Localisation and Mapping (SLAM)
     - Team Management
     - Team Work
-- Supervisors:
+- _Supervisors:_
     - Prof. Dr. António Paulo Moreira
       ([amoreira@fe.up.pt](mailto:amoreira@fe.up.pt))
     - Héber Miguel Sobreira, PhD
@@ -46,10 +46,10 @@
 (Porto, Portugal)
 
 - September 2021 - August 2023
-- Courses (all from the MSc program in ECE):
-    - Software Design (2021/22 1ºS, 2022/23 1ºS)
-    - Industrial Informatics (2021/22 2ºS, 2022/23 2ºS)
-- Supervisors:
+- _Courses:_
+    - Software Design (MSc in ECE) (2021/22 1ºS, 2022/23 1ºS)
+    - Industrial Informatics (MSc in ECE) (2021/22 2ºS, 2022/23 2ºS)
+- _Supervisors:_
     - Prof. Dr. Armando Jorge Sousa ([asousa@fe.up.pt](mailto:asousa@fe.up.pt))
     - Prof. Dr. Mário Jorge Sousa ([msousa@fe.up.pt](mailto:msousa@fe.up.pt))
     - Prof. Dr. Nuno Flores ([nflores@fe.up.pt](mailto:nflores@fe.up.pt))
@@ -59,7 +59,7 @@
 (Vila Nova de Gaia, Porto, Portugal)
 
 - July 2017 - July 2021
-- Supervisor: Joana Oliveira
+- _Supervisor:_ Joana Oliveira
   ([joanaoliveira.flauta@gmail.com](mailto:joanaoliveira.flauta@gmail.com))
 
 **Trainee Assistant @**
@@ -67,10 +67,10 @@
 (Porto, Portugal)
 
 - February 2021 - June 2021
-- Course: Industrial Robotics (MSc in ECE)
-- Teaching Topic: Multivariable Control
+- _Course:_ Industrial Robotics (MSc in ECE)
+- _Teaching Topic:_ Multivariable Control
   (DOI: [10.13140/RG.2.2.27306.13761](http://dx.doi.org/10.13140/RG.2.2.27306.13761))
-- Supervisor: Prof. Dr. António Paulo Moreira
+- _Supervisor:_ Prof. Dr. António Paulo Moreira
   ([amoreira@fe.up.pt](mailto:amoreira@fe.up.pt))
 
 **Tutor @**
@@ -78,7 +78,7 @@
 (Porto, Portugal)
 
 - September 2019 - November 2019
-- Course: Project FEUP (BSc in ECE)
+- _Course:_ Project FEUP (BSc in ECE)
 
 ## Education
 
@@ -87,9 +87,9 @@
 (Porto, Portugal)
 
 - February 2021 - Present
-- GPA: 18.40/20 (curricular part)
+- _GPA:_ 18.40/20 (curricular courses)
 - PhD Thesis in Long-Term Localisation and Mapping with Mobile Robots
-- Supervisors:
+- _Supervisors:_
     - Prof. Dr. António Paulo Moreira
       ([amoreira@fe.up.pt](mailto:amoreira@fe.up.pt))
     - Héber Miguel Sobreira, PhD
@@ -100,21 +100,21 @@
 (Porto, Portugal)
 
 - September 2015 - July 2020
-- GPA: 18.20/20
+- _GPA:_ 18.20/20
 - MSc Thesis in Odometry and Extrinsic Sensor Calibration on Mobile Robots
   (DOI: [10.13140/RG.2.2.27052.28802](http://dx.doi.org/10.13140/RG.2.2.27052.28802))
-- Supervisors:
+- _Supervisors:_
     - Prof. Dr. António Paulo Moreira
       ([amoreira@fe.up.pt](mailto:amoreira@fe.up.pt))
     - Marcelo R. Petry, PhD
       ([marcelo.petry@inesctec.pt](mailto:marcelo.petry@inesctec.pt))
 
-**Scientific-Technological Cource in Industrial Electronics and Automation @**
+**Scientific-Technological Course in Industrial Electronics and Automation @**
 **[Colégio de Gaia](https://www.colgaia.pt/)**
 (Vila Nova de Gaia, Porto, Portugal)
 
 - September 2012 - July 2015
-- GPA: 19.1/20.0
+- _GPA:_ 19.1/20.0
 - Technological Final Project on an Automated Hydroponic in a
   Controlled-Environment Room
 
@@ -123,30 +123,41 @@
 (Vila Nova de Gaia, Porto, Portugal)
 
 - September 2007 - July 2015
-- GPA: 16/20
+- _GPA:_ 16/20
+- _Supervisors:_
+    - [Tiago Abrantes](https://www.meloteca.com/portfolio-item/tiago-abrantes/)
+      (7th and 8th year)
+    - [Daniel Monteiro](https://www.meloteca.com/portfolio-item/daniel-monteiro/)
+      (5th and 6th year)
+    - Manuel Moura (4th year)
+    - [João Moreira](https://www.meloteca.com/portfolio-item/joao-moreira-clarinete/)
+      (3rd year)
+    - [Nuno Pinto](https://www.meloteca.com/portfolio-item/nuno-pinto/)
+      (1st and 2nd year)
 
 ## Projects
 
 - GreenAuto: Green innovation for the Automotive Industry
   (April 2023 - Present)
-    - ID:
+    - _ID:_
       [02/C05-i01.02/2022.PC644867037-00000013](https://preprod.transparencia.gov.pt/pt/fundos-europeus/prr/beneficiarios-projetos/projeto/02/C05-i01.02/2022.PC644867037-00000013/)
-    - Research Topics:
+    - _Research Topics:_
       Automatic Pallet Detection,
       Long-Term Localisation and Mapping with Mobile Robots,
       Multi-Robot Coordination
-- PRODUTECH R3: Row Production Technologies for Reindustrialization
+- PRODUTECH R3 (Recovery-Resilience-Reindustrialisation): Production
+  Technologies Cluster Mobilising Agenda for Reindustrialisation
   (April 2023 - Present)
-    - ID:
+    - _ID:_
       [02/C05-i01.01/2022.PC645808870-00000067](https://transparencia.gov.pt/pt/fundos-europeus/prr/beneficiarios-projetos/projeto/02/C05-i01.01/2022.PC645808870-00000067/)
-    - Research Topics:
+    - _Research Topics:_
       Automatic Pallet Detection,
       Remote Control of Autonomous Forklift Robots
 - VINCI 7D Functional Print
   (September 2020 - August 2021)
-    - ID:
+    - _ID:_
       [POCI-01-0247-FEDER-045102](https://www.inesctec.pt/en/projects/vinci7d)
-    - Research Topics:
+    - _Research Topics:_
       Gerber File Parsers,
       2D-3D Projection of Electronic Circuits and Decorations
 

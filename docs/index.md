@@ -31,7 +31,7 @@ Robotics Researcher at
 4200-465 Porto, Portugal
 
 - Mail: [ricardo.b.sousa@inesctec.pt](mailto:ricardo.b.sousa@inesctec.pt)
-- Tel.: [+351 220 413 317](tel:0351220413317)
+- Tel.: [+351 220 413 317](tel:+351220413317)
 
 PhD Candidate in Electrical and Computers Engineering (ECE) at the
 [Faculty of Engineering, University of Porto (FEUP)](https://sigarra.up.pt/feup/en/),
