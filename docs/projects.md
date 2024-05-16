@@ -33,17 +33,45 @@ automatic pallet and mettalic boxes detection.
 Link:
 [https://transparencia.gov.pt/en/fundos-europeus/prr/beneficiarios-projetos/projeto/02/C05-i01.02/2022.PC644867037-00000013/](https://transparencia.gov.pt/en/fundos-europeus/prr/beneficiarios-projetos/projeto/02/C05-i01.02/2022.PC644867037-00000013/)
 
-## PRODUTECH R3: Row Production Technologies for Reindustrialization
+## PRODUTECH R3 (Recovery-Resilience-Reindustrialisation): Production Technologies Cluster Mobilising Agenda for Reindustrialisation
 
 _(ongoing)_
 
-Development of new methodologies, strategies, tools and approaches that will converge in new products, services and innovative systems (production technologies), aligned with the challenges of the circular economy and based on ensuring sustainability, ensuring significant levels of impact, from the start, in this sector and in the most diverse industrial sectors. It incorporates a coherent set of interventions, aimed at the development of products-systems-services, ecosystems of tools and applications, methodologies and strategies, supported by new digitization paradigms, aiming at: Capacity building for the development of new sustainable products (production systems and components). Advanced integration and management of sustainable production systems, zero defects - zero impacts environmental Symbiotic management of production ecosystems and supply chains in a circular context And the implementation of circular and sustainable approaches in manufacturing industry. It results from the action program of the PRODUTECH cluster and from the clustering movement at FTP, comprising core developments of the strategic axis "Mobilization for frontier R&D+I".
+The PRODUTECH R3 agenda aimed to reduce the external dependence on technologies
+and solutions for productive systems in the Portugal's production sector, in
+order to retain in the country an increasing share of the added value generated
+by the production value chains.
+Consequently, [AIMMAP](https://www.metalportugal.pt/) and the
+[PRODUTECH Cluster](http://www.produtech.org/) launched a comprehensive set of
+projects and initiatives aimed to develop the production sector and,
+simultaneously, contribute to the Produgal's national industry.
+Several R&D centres from [INESC TEC](https://inesctec.pt/en) participated in the
+project. The
+[CRIIS - Centre for Robotics in Industry and Intelligent Systems](https://www.inesctec.pt/en/centres/criis)
+participated in the Work Packages (WP) 6,
+_FlexibleRoboticSolutions - Intelligent, Compact and Flexible End of Line_
+_Robotic Solutions_, and 9,
+_SmartIL - Intelligent interoperable robotic intralogistics and quality control_
+_platform and solutions for industry_.
+These WPs resulted on the demonstration of the R&D results in several
+Product, Processes, or Services (PPS), including the collaboration the main
+industrial partner [JPM Industry](https://jpm.pt/) responsible for the
+development of the robotic intralogistics solutions.
 
-TBC
+My participation in this project included the development of a CANopen driver,
+leveraging the existing library
+[kacanopen](https://github.com/KITmedical/kacanopen) to communicate with the
+drivers of the motors (wheel velocity control for differential robots, position
+reference for trycicle robots and forklifts).
+Additionally, my participation also included the supervision of the R&D work on
+remote control of Autonomous Mobile Robots (AMR), considering both 5G and Wi-Fi
+network configurations, and automatic pallet detection for autonomous forklifts.
 
 Link: [https://transparencia.gov.pt/en/fundos-europeus/prr/beneficiarios-projetos/projeto/02/C05-i01.01/2022.PC645808870-00000067/](https://transparencia.gov.pt/en/fundos-europeus/prr/beneficiarios-projetos/projeto/02/C05-i01.01/2022.PC645808870-00000067/)
 
 ## VINCI 7D Functional Print
+
+_(September 2020 - August 2021)_
 
 INESC TEC participated in this project through a contract celebrated with the company [Rui Azevedo - Soluções de Acabamentos e Tampografia](https://www.ruiazevedo.pt/pt).
 The context of this project was the automotive industry. The VINCI 7D consortium intended to innovate in the industrial process of printing in three-dimensional parts, adopting more automatic and robotic mechanisms, and less dependent on manual processes and mechanical setups. In addition, it was intended to promote the implementation of a technology that allows the innovation of multi-ink printing parts, allowing the creation of sensors and actuators on its surface (e.g., having a car dash with components printed on its surface, instead of mounting and fixing them).
