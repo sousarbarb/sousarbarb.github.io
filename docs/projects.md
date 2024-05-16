@@ -1,5 +1,31 @@
 # Projects
 
+## 5G & Digital Transformation Test Bed
+
+_(ongoing)_
+
+The 5G & Digital Transformation Test Bed is constituted by a consortium composed
+of [NOS](https://www.nos.pt/en/business/welcome),
+[Centro Hospitalar Universitário São João (CHUSJ)](https://portal-chsj.min-saude.pt/),
+and [SONAE MC](https://mc.sonae.pt/), with
+[INESC TEC](https://inesctec.pt/en), [4LifeLab](https://4lifelab.eu/),
+[CEiiA](https://www.ceiia.com/) and
+[Ericsson](https://www.ericsson.com/en/about-us/company-facts/ericsson-worldwide/portugal)
+as partners. This test bed aimed to the acceleration of the country's digital
+transition process and 5G adoption, bringing verticals closer to the new mobile
+network.
+As a partner, [INESC TEC](https://inesctec.pt/en) was responsible for launching
+pilot initiatives that demonstrated the capabilities of the adoption of 5G
+networks.
+
+My participation was in the development of an MQTT-ROS bridge that allows the
+remote control of Autonomous Mobile Robots (AMR). This participation included
+also the supervision on the contributions of the tele-control system of AMRs
+over 5G networks.
+
+Link:
+[https://transparencia.gov.pt/en/fundos-europeus/prr/beneficiarios-projetos/projeto/03/C16-i02/2022.PC651590110-00000107/](https://transparencia.gov.pt/en/fundos-europeus/prr/beneficiarios-projetos/projeto/03/C16-i02/2022.PC651590110-00000107/)
+
 ## GreenAuto: Green innovation for the Automotive Industry
 
 _(ongoing)_
@@ -67,7 +93,8 @@ Additionally, my participation also included the supervision of the R&D work on
 remote control of Autonomous Mobile Robots (AMR), considering both 5G and Wi-Fi
 network configurations, and automatic pallet detection for autonomous forklifts.
 
-Link: [https://transparencia.gov.pt/en/fundos-europeus/prr/beneficiarios-projetos/projeto/02/C05-i01.01/2022.PC645808870-00000067/](https://transparencia.gov.pt/en/fundos-europeus/prr/beneficiarios-projetos/projeto/02/C05-i01.01/2022.PC645808870-00000067/)
+Link:
+[https://transparencia.gov.pt/en/fundos-europeus/prr/beneficiarios-projetos/projeto/02/C05-i01.01/2022.PC645808870-00000067/](https://transparencia.gov.pt/en/fundos-europeus/prr/beneficiarios-projetos/projeto/02/C05-i01.01/2022.PC645808870-00000067/)
 
 ## VINCI 7D Functional Print
 
@@ -79,4 +106,5 @@ The context of this project was the automotive industry. The VINCI 7D consortium
 The main responsability of INESC TEC was the 2D to 3D projection of electronic circuits and/or decorations. The company [Rui Azevedo - Soluções de Acabamentos e Tampografia](https://www.ruiazevedo.pt/pt) established that all electronic circuits and/or decorations should be described by Gerber files (traditionally used in printed circuit boards' industry). Therefore, my main contribution for this project was the development of a Gerber parser compatible with the Gerber X2 standard to convert the text file into a bitmap image (DOI: [10.1109/ACCESS.2022.3187042](https://doi.org/10.1109/ACCESS.2022.3187042)). This parser implemented a recursive descendent approach to interpret the Gerber commands and, consequently, to generate the parsing tree. The bitmap generation leveraged from the drawing functions available in the OpenCV library.
 Although the bitmap image could have been used for an inkjet approach to generate both the robotic manipulator trajectories and the pulses for the printing head, the company decided to prefer a plotter-like approach. This decision led to my smaller contribution of developing a second version of the parser to also consider the parametric definitions of the graphical contents described in the Gerber file, to allow the correct generation of the plotter-like trajectories.
 
-Link: [https://www.inesctec.pt/en/projects/vinci7d](https://www.inesctec.pt/en/projects/vinci7d)
+Link:
+[https://www.inesctec.pt/en/projects/vinci7d](https://www.inesctec.pt/en/projects/vinci7d)

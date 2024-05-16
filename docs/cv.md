@@ -137,6 +137,12 @@
 
 ## Projects
 
+- 5G & Digital Transformation Test Bed
+  (November 2023 - Present)
+    - _ID:_
+      [03/C16-i02/2022.PC651590110-00000107/](https://transparencia.gov.pt/en/fundos-europeus/prr/beneficiarios-projetos/projeto/03/C16-i02/2022.PC651590110-00000107/)
+    - _Research Topics:_
+      Remote Control of Mobile Robots over 5G Networks
 - GreenAuto: Green innovation for the Automotive Industry
   (April 2023 - Present)
     - _ID:_
@@ -160,6 +166,8 @@
     - _Research Topics:_
       Gerber File Parsers,
       2D-3D Projection of Electronic Circuits and Decorations
+
+See more in [Projects](projects.md).
 
 ## Publications
 
