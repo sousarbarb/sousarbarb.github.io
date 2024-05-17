@@ -197,6 +197,12 @@ See more in [Publications](publications.md).
 
 ## Awards
 
+Best Paper Award for the work
+_A Robotic Framework for the Robot@Factory 4.0 Competition_
+at the 2024 IEEE International Conference on Autonomous Robot Systems and
+Competitions (ICARSC),
+Paredes de Coura, Portugal, May 2024.
+
 1st and 2nd places at the
 Robot@Factory 4.0 competition of the Portuguese Robotics Open (FNR) 2023,
 Tomar, Portugal, May 2023.

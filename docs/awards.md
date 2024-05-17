@@ -1,14 +1,16 @@
 # Awards
 
-Best Paper Award
+Best Paper Award for the work
 _A Robotic Framework for the Robot@Factory 4.0 Competition_
 at the 2024 IEEE International Conference on Autonomous Robot Systems and
 Competitions (ICARSC),
 Paredes de Coura, Portugal, May 2024.
 
-Best Presenter Award for the paper
+Best Presenter Award
+in the Session Topic _Model-based System Design, Parameter Optimization, and_
+_Data Measurement_ for the paper
 _Line Fitting-Based Corner-Like Detector for 2D Laser Scanners Data_ at the
-11th International Conference on Automation, Robotics, and Applications
+10th International Conference on Automation, Robotics, and Applications
 (ICARA), Athens, Greece, February 2024.
 
 1st and 2nd places at the
