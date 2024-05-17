@@ -52,6 +52,9 @@ extra:
     - icon: fontawesome/brands/orcid
       link: https://orcid.org/0000-0003-4537-5095/
       name: ORCiD
+    - icon: fontawesome/brands/google-scholar
+      link: https://scholar.google.pt/citations?user=Bz2FMqYAAAAJ
+      name: Google Scholar
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/in/sousa-ricardob/
       name: LinkedIn
