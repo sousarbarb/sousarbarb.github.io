@@ -78,7 +78,9 @@ nav:
   - Open-Source: open-source.md
   - Awards: awards.md
   - Robotics: robotics.md
-  - Tools: tools.md
+  - Tools:
+    - tools/index.md
+    - Git: tools/git.md
 
 markdown_extensions:
   - def_list
