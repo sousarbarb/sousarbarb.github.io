@@ -40,3 +40,11 @@ repositories' state.
     - [How to use GitLab for Agile software development (GitLab)](https://about.gitlab.com/blog/2018/03/05/gitlab-for-agile-software-development/)
     - [Agile Git branching strategies in 2023 (Medium)](https://medium.com/@amid.ukr/agile-git-branching-strategies-in-2023-caeead79ddd)
     - [Learn how Git fits into an agile workflow (Atlassian)](https://www.atlassian.com/agile/software-development/git)
+- [Open Source Guides](https://opensource.guide/)
+- Tutorials
+    - [Git by André Restivo](https://web.fe.up.pt/~arestivo/slides/?s=git)
+    - [Hello World](https://docs.github.com/en/get-started/start-your-journey/hello-world)
+    - [Getting Git Right (Atlassian)](https://www.atlassian.com/git/)
+    - Interactive Learning
+        - [Learn Git Branching](https://learngitbranching.js.org/)
+        - [Visualizing Git](https://git-school.github.io/visualizing-git/)
