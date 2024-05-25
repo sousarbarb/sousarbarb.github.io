@@ -8,6 +8,7 @@ plugins:
 theme:
   name: material
   features:
+    - content.code.copy
     - navigation.instant
     - navigation.instant.prefetch
     - navigation.instant.progress
@@ -84,5 +85,26 @@ nav:
 
 markdown_extensions:
   - def_list
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
   - pymdownx.tasklist:
       custom_checkbox: true
+
+extra_javascript:
+  # - javascripts/katex.js
+  - https://unpkg.com/katex@0/dist/katex.min.js
+  - https://unpkg.com/katex@0/dist/contrib/auto-render.min.js
+
+extra_css:
+  - https://unpkg.com/katex@0/dist/katex.min.css
