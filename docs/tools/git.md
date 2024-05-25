@@ -292,7 +292,8 @@ by the Git database) automatically using `git commit -a -m "<log message>"`.
 ### History
 
 We can see by whom and when each commit was made, the commit message, and also
-the SHA-1 hash of each commit. Note that the
+the SHA-1 hash of each commit. Note that the author information is identified
+by the information set by the corresponding user with the `git config` command.
 
 ```sh
 git log                 # commit history of the repository
