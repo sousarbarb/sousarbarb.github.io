@@ -302,6 +302,22 @@ git log --oneline -1    # limit number of entries
 git log -1 -p           # show the difference introduced in each commit
 ```
 
+### Show Changes
+
+Show changes between the working directory and the index or the repository tree.
+
+```sh
+vim README
+
+git diff
+
+git add README
+git diff --staged
+```
+
+You can also see the changes between branches, between commits, among other
+possibilities.
+
 ## Final Notes
 
 - Commit often
