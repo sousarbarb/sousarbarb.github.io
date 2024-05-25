@@ -232,7 +232,73 @@ end
 ```sh
 git config --global user.name "John Doe"
 git config --global user.email johndoe@example.com
-git config --global core.editor code
+git config --global core.editor vim
+```
+
+## Git Local
+
+### Create a Repository
+
+This creates an empty Git repository, basically a new subdirectory named `.git`
+that contains all necessary files to have a Git repository.
+
+```sh
+mkdir myproject && cd myproject
+git init
+git checkout -b main
+```
+
+### Add
+
+Add content from the working directory into the staging area (or "index") for
+the next commit.
+
+```sh
+echo "Hello World to Git" > README
+cat README
+
+git status
+git add README  # or --all flag to stage all untracked OR modified files
+git status
+```
+
+Also, you can add directories (`git add doc/`),
+specific files (`git add README CONTRIBUTING`), and
+use wildcards (`git add src/*.cpp`).
+
+```sh
+# Open and edit again the README file in several lines
+vim README
+
+# Exexcute the git add --interactive mode to stage specific patches
+git add --patch
+```
+
+### Commit
+
+Make a commit, capturing a snapshot of the project's currently staged changes,
+while associating to the commit a log message.
+
+```sh
+git status --short
+git commit -m "First commit"
+```
+
+If you use `git commit`, Git opens your local code editor set in `core.editor`
+configuration variable to add a short message and a longer one.
+Additionally, you can stage and commit modified files (that are already tracked
+by the Git database) automatically using `git commit -a -m "<log message>"`.
+
+### History
+
+We can see by whom and when each commit was made, the commit message, and also
+the SHA-1 hash of each commit. Note that the
+
+```sh
+git log                 # commit history of the repository
+git log --oneline       # simplified history
+git log --oneline -1    # limit number of entries
+git log -1 -p           # show the difference introduced in each commit
 ```
 
 ## Final Notes
