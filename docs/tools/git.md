@@ -25,7 +25,7 @@ GUI clients can be of great help to visualise the Git branch tree, manage
 tags/submodules, while giving a more graphic perspective of the
 repositories' state.
 
-### Useful links
+### Useful Links
 
 - [Git](https://git-scm.com/)
 - [Pro Git book](https://git-scm.com/book/en/v2)
@@ -167,6 +167,55 @@ subgraph Server
     end
 end
 ```
+
+## Git Basics
+
+- **Snapshots, Not Differences**
+    - Most other VCS systems store information as a list of file-based changes
+      (aka, delta-based version control)
+    - Git thinks of its data as a series of snapshots of a miniature filesystem
+        - Every time you commit, Git basically takes a picture of what all the
+          files look like at that moment and stores a reference to that snapshot
+        - In order to be efficient, Git does not store the file again if its
+          contents have not changed, only saves a link to the previous identical
+          file it has already stored
+- **Nearly Every Operation is Local**
+    - Browsing the repository history
+    - Commit changes to the repository locally, then upload them to the remote
+      server when possible
+- **Data Integrity**
+    - Everything in Git is checksummed before it is stored using SHA-1 hashes
+    - Git stores everything in its database not by file name but by the hash
+      value / checksum of its contents
+    - _Example:_ `c9962192f9a359d450cebab57752bdf75003a532`
+      (contents of the file `.git/refs/heads/main` that represents the current
+      commit of the repository)
+
+### Git Areas
+
+- **Working directory:** directory in the local file system that is associated
+  with a Git repository
+- **Staging area:** index file, generally contained in the Git directory, that
+  stores information about what will go into the next commit
+- **`.git` directory** _(repository)_ **:**
+  directory inside the working repository
+
+### File States
+
+- **Untracked:** files that exist in the working directory but has not been
+  added to the repository's database
+- **Modified:** changed files but not yet committed to the repository's database
+- **Staged:** modified files marked to go into the next commit snapshot
+- **Committed:** data safely stored in the local database
+
+### Basic Git Workflow
+
+1. Checkout the project (`.git` >>> Working directory)
+2. Modify the files in your work tree
+3. Stage just the changes you want to be part of the next commit, adding only
+   those changes to the staging area (Working directory >>> Staging area)
+4. Commit the staged files and store the corresponding snapshot permanently to
+   your Git directory (Staging area >>> `.git`)
 
 ## Final Notes
 
