@@ -217,6 +217,24 @@ end
 4. Commit the staged files and store the corresponding snapshot permanently to
    your Git directory (Staging area >>> `.git`)
 
+## First-Time Git Setup
+
+- `git config` sets the configuration variables that control all aspects of how
+  Git works:
+    - `[path]/etc/gitconfig` (applicable to every user on the system and all
+      repositories)
+    - `~/.gitconfig` or `~/.config/git/config` (values specific to the user)
+    - `[repository path]/.git/config` (configuration specific to the local
+      repository)
+    - View all settings and where they are comming from using:
+      `git config --list --show-origin`
+
+```sh
+git config --global user.name "John Doe"
+git config --global user.email johndoe@example.com
+git config --global core.editor code
+```
+
 ## Final Notes
 
 - Commit often
