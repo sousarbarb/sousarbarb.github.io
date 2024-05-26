@@ -259,27 +259,6 @@ authentication, you can create an SSH config file as follows:
 touch ~/ssh/config && vim ~/ssh/config
 ```
 
-### SSH Keys
-
-Nowadays, most of Git remote servers, such as [GitHub](https://github.com/) or
-[GitLab](https://gitlab.com/), require SSH keys for authentication, enabling
-remote Git operations over SSH.
-
-```sh
-ssh-keygen -t ed25519 -C "johndoe@exaxmple.com" -f ~/.ssh/github  # create SSH key
-eval $(ssh-agent -s)                                              # start ssh-agent
-ssh-add ~/.ssh/github                                             # add SSH private key to the ssh-agent
-cat ~/.ssh/github.pub | xclip -selection clipboard                # copy the public key and add to your account
-```
-
-Usually, only one SSH key is need to use in the different Git remote servers.
-However, if you need to use multiple SSH keys and have problems with the
-authentication, you can create an SSH config file as follows:
-
-```sh
-touch ~/ssh/config && vim ~/ssh/config
-```
-
 **SSH client configuration file**
 
 ```
