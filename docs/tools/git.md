@@ -259,8 +259,6 @@ authentication, you can create an SSH config file as follows:
 touch ~/ssh/config && vim ~/ssh/config
 ```
 
-<<<<<<< HEAD
-=======
 ### SSH Keys
 
 Nowadays, most of Git remote servers, such as [GitHub](https://github.com/) or
@@ -282,7 +280,6 @@ authentication, you can create an SSH config file as follows:
 touch ~/ssh/config && vim ~/ssh/config
 ```
 
->>>>>>> c2b2dd3d74eb3d3fe560bb628a157cbb2fb8fdcb
 **SSH client configuration file**
 
 ```
