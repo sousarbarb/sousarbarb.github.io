@@ -217,7 +217,9 @@ end
 4. Commit the staged files and store the corresponding snapshot permanently to
    your Git directory (Staging area >>> `.git`)
 
-## First-Time Git Setup
+## Git Setup
+
+### Local Configuration
 
 - `git config` sets the configuration variables that control all aspects of how
   Git works:
@@ -234,6 +236,50 @@ git config --global user.name "John Doe"
 git config --global user.email johndoe@example.com
 git config --global core.editor vim
 ```
+
+### SSH Keys
+
+Nowadays, most of Git remote servers, such as [GitHub](https://github.com/) or
+[GitLab](https://gitlab.com/), require SSH keys for authentication, enabling
+remote Git operations over SSH.
+
+```sh
+ssh-keygen -t ed25519 -C "johndoe@exaxmple.com" -f ~/.ssh/github  # create SSH key
+eval $(ssh-agent -s)                                              # start ssh-agent
+ssh-add ~/.ssh/github                                             # add SSH private key to the ssh-agent
+cat ~/.ssh/github.pub | xclip -selection clipboard                # copy the public key and add to your account
+```
+
+Usually, only one SSH key is need to use in the different Git remote servers.
+However, if you need to use multiple SSH keys and have problems with the
+authentication, you can create an SSH config file as follows:
+
+```sh
+touch ~/ssh/config && vim ~/ssh/config
+```
+
+**SSH client configuration file**
+
+```
+Host GitHub github.com
+  HostName github.com
+  IdentityFile ~/.ssh/GitHub
+  User sousarbarb
+
+Host GitLab gitlab.com
+  HostName gitlab.com
+  IdentityFile ~/.ssh/GitLab
+  User sousarbarb
+
+Host GitLabINESCTEC gitlab.inesctec.pt
+  HostName gitlab.inesctec.pt
+  IdentityFile ~/.ssh/GitLabINESCTEC
+  User ricardo.b.sousa
+```
+
+See the
+[How To Configure Custom Connection Options for your SSH Client](https://www.digitalocean.com/community/tutorials/how-to-configure-custom-connection-options-for-your-ssh-client)
+tutorial for further information on this topic.
 
 ## Git Local
 
