@@ -235,6 +235,7 @@ end
 git config --global user.name "John Doe"
 git config --global user.email johndoe@example.com
 git config --global core.editor vim
+git config --global merge.tool vimdiff
 ```
 
 ### SSH Keys
@@ -365,6 +366,109 @@ git diff --staged
 
 You can also see the changes between branches, between commits, among other
 possibilities.
+
+### Undoing Things
+
+- Add some files possibly forgotten from the last commit, or if the commit
+  message was messed up
+  ```sh
+  git add REAME
+  git commit -m "Update README"
+  git add README
+  git commit --amend
+  ```
+- Unstaging a staged file
+  ```sh
+  git restore --staged <file>
+  git reset HEAD <file>
+  ```
+- Unmodifying a modified file
+  ```sh
+  git restore <file>
+  git checkout -- <file>
+  ```
+
+## Branching
+
+- A branch in Git is simply a movable point to a commit
+- Each time you commit to a branch, the pointer moves forward automatically
+- `HEAD` is a special pointer that always points to the current branch
+
+### Create Branches
+
+```sh
+git branch devel    # create a new devel branch
+git branch          # list current branches
+git checkout devel  # switch from current branch to devel
+
+# OR
+git checkout -b devel   # create and checkout the new branch
+
+git branch
+git status
+git log
+```
+
+### Deleting Branches
+
+```sh
+git branch -d devel   # only deletes the branch pointer, all commits remain
+```
+
+### Merging
+
+```sh
+git checkout main
+git merge devel
+```
+
+- Git uses two main strategies to merge branches:
+    - **Fast-forward merge:** when there is no divergent work
+    - **Three-way merge:** when there is diverging work
+
+#### Basic Merge Conflicts
+
+Occasionally, the merge proccess does not go smoothly, if the same part of the
+same file was changed differently in the two branches that will be merged.
+Thus, in this specific case, Git does not create automatically a new merge
+commit. Instead, you may need to edit manually the conflicted file(s):
+
+```sh
+$ git status
+On branch main
+You have unmerged paths.
+  (fix conflicts and run "git commit")
+
+Unmerged paths:
+  (use "git add <file>..." to mark resolution)
+
+    both modified:      index.html
+
+no changes added to commit (use "git add" and/or "git commit -a")
+```
+
+- File modified by Git upon the detection of a merge conflict:
+  ```html
+  <<<<<<< HEAD:index.html
+  <div id="footer">contact : email.support@github.com</div>
+  =======
+  <div id="footer">
+  please contact us at support@github.com
+  </div>
+  >>>>>>> iss53:index.html
+  ```
+- File after solving the merge conflict:
+  ```html
+  <div id="footer">
+  please contact us at email.support@github.com
+  </div>
+  ```
+
+This process of solving merge conflicts can be manually done by editing the file
+and choosing the final version. In alternative, you can use a merge conflict
+tool, such as
+[Visual Studio Code](https://code.visualstudio.com/docs/sourcecontrol/overview)
+or [vimdiff](https://git-scm.com/docs/vimdiff/en).
 
 ## Final Notes
 
