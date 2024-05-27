@@ -17,7 +17,7 @@ acquired by the [5dpo Robotics Team](https://5dpo.github.io/) by winning the
 Links:
 
 - _GitHub:_ [5dpo/5dpo\_ratf\_2023](https://github.com/5dpo/5dpo_ratf_2023)
-- _DOI:_ [N/A](https://doi.org/)
+- _DOI:_ [10.1109/ICARSC61747.2024.10535935](https://doi.org/10.1109/ICARSC61747.2024.10535935)
 - _Preprint:_
   [10.13140/RG.2.2.29701.77283](https://doi.org/10.13140/RG.2.2.29701.77283)
 
@@ -28,8 +28,8 @@ Citation:
 > (2024).
 > _A Robotic Framework for the Robot@Factory 4.0 Competition_.
 > In: 2024 IEEE International Conference on Autonomous Robot Systems and
-> Competitions (ICARSC), _in press_.
-> DOI: [N/A](https://doi.org/)
+> Competitions (ICARSC), pp. 66-73.
+> DOI: [10.1109/ICARSC61747.2024.10535935](https://doi.org/10.1109/ICARSC61747.2024.10535935)
 
 ## Line Fitting-Based Corner-Like Detector for 2D Laser Scanners Data
 
