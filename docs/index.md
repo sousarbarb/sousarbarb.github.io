@@ -15,10 +15,8 @@
 - [@sousarbarb](https://gitlab.com/sousarbarb) _(GitLab)_
 - [@ricardo.b.sousa](https://gitlab.inesctec.pt/ricardo.b.sousa)
   _(GitLab INESC TEC)_
-- [Instagram](https://www.instagram.com/sousarbarb97/)
 - [LinkedIn](https://www.linkedin.com/in/sousa-ricardob/)
 - [ResearchGate](https://www.researchgate.net/profile/Ricardo-Sousa-19)
-- [Reddit](https://www.reddit.com/user/sousarbarb97)
 - [YouTube](https://www.youtube.com/channel/UCXTR8mMlG0VOC_06PKg5KBQ)
 
 ## Contacts
