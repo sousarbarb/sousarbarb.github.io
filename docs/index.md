@@ -1,5 +1,7 @@
 # Ricardo B. Sousa Personal Webpage
 
+![Ricardo B. Sousa Photography](assets/index/photo_inesctec_16-9-ratio.jpg)
+
 ## Identifiers
 
 - CiênciaVITAE: [D11E-2C67-1CCE](https://www.cienciavitae.pt/D11E-2C67-1CCE)
