@@ -1,5 +1,11 @@
 # Awards
 
+3rd place
+with the Best Robot (technical-scientific solution) and
+Cheetah (best average time) awards at the
+Dragster competition of the Portuguese Robotics Open (FNR) 2025,
+Madeira, Portugal, April 2025.
+
 Best Paper Award for the work
 _A Robotic Framework for the Robot@Factory 4.0 Competition_
 at the 2024 IEEE International Conference on Autonomous Robot Systems and
@@ -10,8 +16,8 @@ Best Presenter Award
 in the Session Topic _Model-based System Design, Parameter Optimization, and_
 _Data Measurement_ for the paper
 _Line Fitting-Based Corner-Like Detector for 2D Laser Scanners Data_ at the
-10th International Conference on Automation, Robotics, and Applications
-(ICARA), Athens, Greece, February 2024.
+10th International Conference on Automation, Robotics, and Applications (ICARA),
+Athens, Greece, February 2024.
 
 1st and 2nd places at the
 Robot@Factory 4.0 competition of the Portuguese Robotics Open (FNR) 2023,
@@ -31,6 +37,6 @@ Gondomar, Porto, Portugal, May 2019.
 
 2nd place in the
 challenge All Aboard IKEA of the competition Academic Games of Engineering,
-AEFEUP, Porto, Portugal, 2019.
+AEFEUP, Porto, Portugal, April 2019.
 
 Merit Scholarship for the academic year 2016/2017 (best 12 out of 6000).
