@@ -6,8 +6,9 @@
 **[Sapienza Università di Roma](https://www.uniroma1.it/en/)**
 (Rome, Italy)
 
-- February 2024 - Present
+- February 2024 - July 2024
 - _Research Topics:_
+    - Distance Maps
     - Simultaneous Localisation and Mapping (SLAM)
 - _Skills:_
     - C/C++
