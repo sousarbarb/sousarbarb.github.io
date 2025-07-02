@@ -132,6 +132,8 @@ nav:
   - Robotics: robotics.md
   - Tools:
       - tools/index.md
+      - Operating System (OS):
+          - tools/os/index.md
       - Git: tools/git.md
 
 extra_javascript:
