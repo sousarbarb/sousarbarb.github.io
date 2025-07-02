@@ -135,6 +135,7 @@ nav:
       - Operating System (OS):
           - tools/os/index.md
           - NVIDIA Drivers: tools/os/nvidia.md
+          - Development Environment: tools/os/dev.md
       - Git: tools/git.md
 
 extra_javascript:
