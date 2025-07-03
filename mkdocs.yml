@@ -138,6 +138,8 @@ nav:
           - Remote Access: tools/os/remote-access.md
           - Development Environment: tools/os/dev.md
       - Git: tools/git.md
+      - Docker:
+          - tools/docker/index.md
 
 extra_javascript:
   - https://unpkg.com/katex@0/dist/katex.min.js
