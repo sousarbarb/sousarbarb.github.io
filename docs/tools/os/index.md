@@ -34,59 +34,59 @@ However, the guide may be adapted for other distributions.
 4. Save the changes and exit the boot screen
 5. Select _Try or Install Ubuntu_
 6. Open the _Install Ubuntu 24.04.2 LTS_ desktop application
-    ![Ubuntu Installation Open Desktop Installation](../../../assets/tools/os/0_desktop.png)
+    ![Ubuntu Installation Open Desktop Installation](../../assets/tools/os/0_desktop.png)
 7. Select the OS language
-    ![Ubuntu Installation Language Selection](../../../assets/tools/os/1_welcome.png)
+    ![Ubuntu Installation Language Selection](../../assets/tools/os/1_welcome.png)
 8. Choose your desired accessibility options for Ubuntu
-    ![Ubuntu Installation Accessibility Options](../../../assets/tools/os/2_accessability.png)
+    ![Ubuntu Installation Accessibility Options](../../assets/tools/os/2_accessability.png)
 9. Select your keyboard layout
-    ![Ubuntu Installation Keyboard Layout](../../../assets/tools/os/3_keyboard.png)
+    ![Ubuntu Installation Keyboard Layout](../../assets/tools/os/3_keyboard.png)
 10. _(optional)_ Setup the Internet connection to update the installer
-    ![Ubuntu Installation Internet Setup](../../../assets/tools/os/4_internet.png)
+    ![Ubuntu Installation Internet Setup](../../assets/tools/os/4_internet.png)
 11. _(optional)_ Update the OS installer if needed, and return to step 6
-    ![Ubuntu Installation Installer Update](../../../assets/tools/os/5_1_installer-update.png)
-    ![Ubuntu Installation Installer Update](../../../assets/tools/os/5_2_installer-update.png)
+    ![Ubuntu Installation Installer Update](../../assets/tools/os/5_1_installer-update.png)
+    ![Ubuntu Installation Installer Update](../../assets/tools/os/5_2_installer-update.png)
 12. Select _Interactive installation_ for the OS installation type
-    ![Ubuntu Installation Installation Type](../../../assets/tools/os/6_installation-type.png)
+    ![Ubuntu Installation Installation Type](../../assets/tools/os/6_installation-type.png)
     - Automated installation uses an YAML file for automatic Ubuntu installation
       (see [https://canonical-subiquity.readthedocs-hosted.com/en/latest/reference/autoinstall-reference.html](https://canonical-subiquity.readthedocs-hosted.com/en/latest/reference/autoinstall-reference.html))
 13. Use _Default selection_ to just install the essentials, web browser, and
     basic utilities
-    ![Ubuntu Installation Applications](../../../assets/tools/os/7_applications.png)
+    ![Ubuntu Installation Applications](../../assets/tools/os/7_applications.png)
 14. Enable _Download and install support for additional media formats_ to
     install media codecs in your OS
-    ![Ubuntu Installation Proprietary SW](../../../assets/tools/os/8_proprietary-sw.png)
+    ![Ubuntu Installation Proprietary SW](../../assets/tools/os/8_proprietary-sw.png)
 15. Select _Manual installation_ to create and resize partitions yourself
-    ![Ubuntu Installation Disk Setup](../../../assets/tools/os/9_disk-setup.png)
+    ![Ubuntu Installation Disk Setup](../../assets/tools/os/9_disk-setup.png)
     - Remove all pre-existing partitions in the disk device used for the OS
       installation (`nvme0n1`)
-        ![Ubuntu Installation Disk Setup Empty Partitions](../../../assets/tools/os/9_disk-setup_0_empty-partitions.png)
+        ![Ubuntu Installation Disk Setup Empty Partitions](../../assets/tools/os/9_disk-setup_0_empty-partitions.png)
     - Select the `nvme0n1` disk device for boot loader installation
-        ![Ubuntu Installation Disk Setup Boot Loader](../../../assets/tools/os/9_disk-setup_1_bootloader-device.png)
+        ![Ubuntu Installation Disk Setup Boot Loader](../../assets/tools/os/9_disk-setup_1_bootloader-device.png)
     - SSD partitions
         - 512MB EFI System Partition
 
-            ![Ubuntu Installation Disk Setup EFI](../../../assets/tools/os/9_disk-setup_2_efi.png)
+            ![Ubuntu Installation Disk Setup EFI](../../assets/tools/os/9_disk-setup_2_efi.png)
 
         - `/` root (remaining of the disk free available size minus, e.g.,
           16GB for swap area)
 
-            ![Ubuntu Installation Disk Setup Root](../../../assets/tools/os/9_disk-setup_3_root.png)
+            ![Ubuntu Installation Disk Setup Root](../../assets/tools/os/9_disk-setup_3_root.png)
 
         - Swap area (~16GB)
 
-            ![Ubuntu Installation Disk Setup Swap](../../../assets/tools/os/9_disk-setup_4_swap.png)
+            ![Ubuntu Installation Disk Setup Swap](../../assets/tools/os/9_disk-setup_4_swap.png)
 
     - Final partition scheme
 
-        ![Ubuntu Installation Disk Setup Partition Scheme](../../../assets/tools/os/9_disk-setup_5_scheme.png)
+        ![Ubuntu Installation Disk Setup Partition Scheme](../../assets/tools/os/9_disk-setup_5_scheme.png)
 
 16. Create your account and setup the computer information settings
-    ![Ubuntu Installation User and PC Information](../../../assets/tools/os/10_user+pc-information.png)
+    ![Ubuntu Installation User and PC Information](../../assets/tools/os/10_user+pc-information.png)
 17. Select your timezone
-    ![Ubuntu Installation Timezone](../../../assets/tools/os/11_timezone.png)
+    ![Ubuntu Installation Timezone](../../assets/tools/os/11_timezone.png)
 18. Review your installation choices
-    ![Ubuntu Installation Review](../../../assets/tools/os/12_review.png)
+    ![Ubuntu Installation Review](../../assets/tools/os/12_review.png)
 19. Restart the computer when the installation finishes
 20. Only remove the installation medium (USB stick) when appearing
     _Please remove the installation medium, then press ENTER_
