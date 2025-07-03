@@ -140,6 +140,7 @@ nav:
       - Git: tools/git.md
       - Docker:
           - tools/docker/index.md
+          - ROS: tools/docker/ros.md
 
 extra_javascript:
   - https://unpkg.com/katex@0/dist/katex.min.js
