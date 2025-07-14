@@ -1,0 +1,7 @@
+<launch>
+
+  <node pkg="docker_ros_example" exec="docker_ros_example"
+        name="docker_ros_example"
+        output="screen"/>
+
+</launch>

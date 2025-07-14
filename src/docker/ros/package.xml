@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<?xml-model href="http://download.ros.org/schema/package_format3.xsd"
+    schematypens="http://www.w3.org/2001/XMLSchema"?>
+
+<package format="3">
+  <name>docker_ros_example</name>
+  <version>0.0.0</version>
+  <description> This is an example package for using ROS with Docker. It demonstrates how to set up
+    a basic ROS environment within a Docker container to develop for different ROS versions. </description>
+
+  <maintainer email="sousa.ricardob@outlook.com">Ricardo B. Sousa</maintainer>
+
+  <license>BSD</license>
+
+  <url type="repository">https://github.com/sousarbarb/sousarbarb.github.io</url>
+  <url type="website">https://sousarbarb.github.io/tools/docker/ros/</url>
+
+  <author email="sousa.ricardob@outlook.com">Ricardo B. Sousa</author>
+
+  <buildtool_depend condition="$ROS_VERSION == 2">ament_cmake</buildtool_depend>
+  <buildtool_depend condition="$ROS_VERSION == 1">catkin</buildtool_depend>
+
+  <depend condition="$ROS_VERSION == 2">rclcpp</depend>
+  <depend condition="$ROS_VERSION == 1">roscpp</depend>
+
+  <depend>std_msgs</depend>
+
+  <test_depend condition="$ROS_VERSION == 2">ament_lint_auto</test_depend>
+  <test_depend condition="$ROS_VERSION == 2">ament_lint_common</test_depend>
+
+  <export>
+    <build_type condition="$ROS_VERSION == 2">ament_cmake</build_type>
+    <build_type condition="$ROS_VERSION == 1">catkin</build_type>
+  </export>
+
+</package>

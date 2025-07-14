@@ -1,0 +1,31 @@
+services:
+  ros1noetic:
+    image: osrf/ros:noetic-desktop
+    container_name: ros1noetic
+    volumes:
+      - ./:/home/ros_ws/src/docker_ros_example/
+    tty: true
+  ros2foxy:
+    image: osrf/ros:foxy-desktop
+    container_name: ros2foxy
+    volumes:
+      - ./:/home/ros_ws/src/docker_ros_example/
+    tty: true
+  ros2humble:
+    image: osrf/ros:humble-desktop
+    container_name: ros2humble
+    volumes:
+      - ./:/home/ros_ws/src/docker_ros_example/
+    tty: true
+  ros2jazzy:
+    image: osrf/ros:jazzy-desktop
+    container_name: ros2jazzy
+    volumes:
+      - ./:/home/ros_ws/src/docker_ros_example/
+    tty: true
+  ros2rolling:
+    image: osrf/ros:rolling-desktop
+    container_name: ros2rolling
+    volumes:
+      - ./:/home/ros_ws/src/docker_ros_example/
+    tty: true
