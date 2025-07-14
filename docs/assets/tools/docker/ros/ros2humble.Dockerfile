@@ -1,4 +1,4 @@
-FROM osrf/ros:humble-desktop-full-jammy
+FROM osrf/ros:humble-desktop
 
 # Set environment variables
 ENV DEBIAN_FRONTEND=noninteractive
