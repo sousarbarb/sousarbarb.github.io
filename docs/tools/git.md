@@ -251,6 +251,14 @@ ssh-add ~/.ssh/github                                             # add SSH priv
 cat ~/.ssh/github.pub | xclip -selection clipboard                # copy the public key and add to your account
 ```
 
+After adding the SSH to your GitHub and/or GitLab account(s),
+you may test the SSH key with the following commands:
+
+```sh
+ssh -T git@github.com
+ssh -T git@gitlab.com
+```
+
 Usually, only one SSH key is need to use in the different Git remote servers.
 However, if you need to use multiple SSH keys and have problems with the
 authentication, you can create an SSH config file as follows:
