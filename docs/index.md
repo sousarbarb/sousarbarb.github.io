@@ -9,7 +9,7 @@
 - AuthenticusID: [R-00J-JZZ](https://www.authenticus.pt/R-00J-JZZ)
 - Google Scholar: [Bz2FMqYAAAAJ](https://scholar.google.com/citations?user=Bz2FMqYAAAAJ)
 - Researcher ID: [AAG-9201-2021](https://www.webofscience.com/wos/author/record/AAG-9201-2021)
-- Scopus Author ID: [57217044620](https://www.scopus.com/authid/detail.uri?authorId=57217044620)
+- Scopus Author ID: [56561955600](https://www.scopus.com/authid/detail.uri?authorId=56561955600)
 
 ## Links
 
