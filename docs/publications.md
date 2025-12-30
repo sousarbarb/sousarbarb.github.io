@@ -2,6 +2,16 @@
 
 ## Journal articles
 
+Ribeiro, J.D., Sousa, R.B., Martins, J.G., Aguiar, A.S.,
+Santos, F.N., & Sobreira, H.M. (2025).
+_Indoor Benchmark of 3D LiDAR SLAM at iilab - Industry and Innovation Laboratory_.
+IEEE Access, **13**:212421-212442.
+[[doi]](https://doi.org/10.1109/ACCESS.2025.3643753)
+[[dataset]](https://doi.org/10.25747/VHNJ-WM80)
+[[github]](https://github.com/jorgedfr/3d_lidar_slam_benchmark_at_iilab)
+[[toolkit]](https://github.com/JorgeDFR/iilabs3d-toolkit)
+[[website]](https://jorgedfr.github.io/3d_lidar_slam_benchmark_at_iilab/)
+
 Sousa, R.B., Sobreira, H.M., & Moreira, A.P. (2023).
 _A systematic literature review on long-term localization and mapping for_
 _mobile robots_.
