@@ -8,7 +8,7 @@ repo_url: https://github.com/sousarbarb/sousarbarb.github.io
 edit_uri: edit/main/docs/
 
 # Copyright
-copyright: Copyright &copy; 2022 Ricardo B. Sousa
+copyright: Copyright &copy; 2022 — Present, Ricardo B. Sousa
 
 plugins:
   - search
@@ -83,6 +83,12 @@ extra:
     - icon: fontawesome/brands/youtube
       link: https://www.youtube.com/channel/UCXTR8mMlG0VOC_06PKg5KBQ/
       name: YouTube Channel @RicardoBSousa
+    - icon: fontawesome/brands/instagram
+      link: https://www.instagram.com/sousarbarb97
+      name: Instagram
+    - icon: fontawesome/brands/reddit-alien
+      link: https://www.reddit.com/u/sousarbarb97
+      name: Reddit
 
 # Markdown extensions
 markdown_extensions:

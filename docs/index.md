@@ -2,6 +2,21 @@
 
 ![Ricardo B. Sousa Photography](assets/index/photo_inesctec_16-9-ratio.jpg)
 
+**Robotics Researcher | Autonomous Mobile Robots | Research to Industrial Deployment**
+
+Robotics researcher who takes Simultaneous Localization and Mapping (SLAM)
+algorithms and navigation stacks for Autonomous Mobile Robots (AMRs) from the
+research prototype stage to the factory floor.
+Creator of the RicoSLAM framework
+([https://github.com/INESCTEC/ricoslam](https://github.com/INESCTEC/ricoslam)).
+Deployment of SLAM algorithms and autonomous navigation stacks on-site at
+5+ companies and several industrial sites.
+Built research mobile robotic platforms and contributed to the
+_IILABS 3D — iilab Indoor LiDAR-based SLAM_ dataset (DOI:
+[10.1109/ACCESS.2025.3643753](https://doi.org/10.1109/ACCESS.2025.3643753)).
+Author of 16 peer-reviewed publications (5 journal, 11 conference), including
+a Best Paper Award.
+
 ## Identifiers
 
 - CiênciaVITAE: [D11E-2C67-1CCE](https://www.cienciavitae.pt/D11E-2C67-1CCE)
@@ -37,7 +52,4 @@ PhD Candidate in Electrical and Computers Engineering (ECE) at the
 [Faculty of Engineering, University of Porto (FEUP)](https://sigarra.up.pt/feup/en/),
 4200-465 Porto, Portugal
 
-Researcher at the
-[5dpo Robotics Team](https://5dpo.github.io/), 4200-465 Porto, Portugal
-
-- Mail: [up201503004@edu.fe.up.pt](mailto:up201503004@edu.fe.up.pt)
+- Mail: [up201503004@edu.fe.up.pt](mailto:up201503004@edu.fe.up.pt), [rbs@fe.up.pt](mailto:rbs@fe.up.pt)
