@@ -225,7 +225,7 @@ a Best Paper Award.
 
 **5G & Digital Transformation Test Bed**
 
-- November 2023 — Present
+- November 2023 — June 2024
 - _ID:_
   [03/C16-i02/2022.PC651590110-00000107](https://transparencia.gov.pt/en/fundos-europeus/prr/beneficiarios-projetos/projeto/03/C16-i02/2022.PC651590110-00000107/)
 - _Research Topics:_
@@ -233,7 +233,7 @@ a Best Paper Award.
 
 **GreenAuto: Green innovation for the Automotive Industry**
 
-- April 2023 - Present
+- April 2023 — June 2026
 - _ID:_
   [02/C05-i01.02/2022.PC644867037-00000013](https://transparencia.gov.pt/en/fundos-europeus/prr/beneficiarios-projetos/projeto/02/C05-i01.01/2022.PC644867037-00000013/)
 - _Research Topics:_
@@ -244,7 +244,7 @@ a Best Paper Award.
 **PRODUTECH R3 (Recovery-Resilience-Reindustrialisation): Production**
 **Technologies Cluster Mobilising Agenda for Reindustrialisation**
 
-- April 2023 - Present
+- April 2023 — June 2026
 - _ID:_
   [02/C05-i01.01/2022.PC645808870-00000067](https://transparencia.gov.pt/en/fundos-europeus/prr/beneficiarios-projetos/projeto/01/C05-i11/2024.PC645808870-00000067/)
 - _Research Topics:_
@@ -253,7 +253,7 @@ a Best Paper Award.
 
 **VINCI 7D Functional Print**
 
-- September 2020 - August 2021
+- September 2020 — August 2021
 - _ID:_
   [POCI-01-0247-FEDER-045102](https://transparencia.gov.pt/en/fundos-europeus/pt2020/beneficiarios-projetos/projeto/NORTE-01-0247-FEDER-045102/)
 - _Research Topics:_
